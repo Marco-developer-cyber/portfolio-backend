@@ -1,0 +1,19 @@
+# Development files
+test.html
+README.md
+DEPLOY_RENDER.md
+
+# Log files
+logs/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git files
+.git/
+.gitignore

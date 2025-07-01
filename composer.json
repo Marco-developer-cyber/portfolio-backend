@@ -3,9 +3,13 @@
     "description": "PHP Backend for feedback form",
     "type": "project",
     "require": {
-        "php": ">=7.4"
+        "php": ">=8.1"
     },
+    "require-dev": {},
     "scripts": {
         "start": "php -S 0.0.0.0:$PORT -t ."
+    },
+    "config": {
+        "optimize-autoloader": true
     }
 }
